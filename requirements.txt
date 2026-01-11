@@ -1,0 +1,12 @@
+langchain>=0.3.0
+langchain-core>=0.3.0
+langchain-openai>=0.3.0
+langchain-anthropic>=0.3.0
+langchain-google-genai>=2.0.0
+langchain-huggingface>=0.3.0
+transformers
+huggingface-hub
+python-dotenv
+numpy
+scikit-learn
+ipykernel
