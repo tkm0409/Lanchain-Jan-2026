@@ -23,6 +23,7 @@ These advanced modules cover the cutting-edge requirements for Staff/Principal E
 | **07. LangGraph** | State Machines, Checkpointing, Multi-Agent Supervisors | **Orchestration**: Managing complex, long-running agent loops closer to a State Machine than a Chain. |
 | **08. Deployment** | FastAPI, LangServe, Docker, Microservices | **Engineering**: Taking your script from `localhost` to a scalable K8s service. |
 | **09. Advanced RAG** | **CRAG** (Self-Correction), **GraphRAG**, **Vision** | **Reasoning**: Moving beyond "semantic search" to structural understanding and visual perception. |
+| **10. UI Demos** | **Gradio** (Prototyping), **Streamlit** (Apps) | **Presentation**: Showing your work to stakeholders effectively. |
 
 ---
 
@@ -76,7 +77,9 @@ d:/Langchain-Jan/
 ├── 07_Module_Solutions/         # The Answer Key (Tasks)
 ├── 08_LangGraph_Orchestration/  # [SOTA] State Machines
 ├── 09_Deployment_LangServe/     # [SOTA] Production API
-└── 10_Advanced_RAG_2026/        # [SOTA] Self-RAG, Graphs, Vision
+├── 10_Advanced_RAG_2026/        # [SOTA] Self-RAG, Graphs, Vision
+├── 11_Demo_Gradio/              # [UI] Rapid Prototyping
+└── 12_Demo_Streamlit/           # [UI] Full Chat App
 ```
 
 **Happy Building.**
